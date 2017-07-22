@@ -10,4 +10,4 @@ npm install -g json-server
 cd into demo-server
 json-server db.json
 
--- Shopping Cart should now be fully functional.
+-- Shopping Cart should now be fully functional on reload.
