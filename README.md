@@ -1,8 +1,21 @@
-# Vue-Shopping-Cart
+# my-project
 
-This is a simple shopping cart app created using VueJs2.
-It was created as part of a group (or rather a duo).
+> Shopping Cart Project
 
-Note: You must install NodeJS for this project to work.
+## Build Setup
 
-Enjoy!
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+
+# build for production and view the bundle analyzer report
+npm run build --report
+```
+
+For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
