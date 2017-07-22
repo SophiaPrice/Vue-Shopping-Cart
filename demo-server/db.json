@@ -1,0 +1,123 @@
+{
+  "products": [
+    {"sku": "F1",
+      "title": "Nike Roshe One Runners",
+      "size": 4,
+      "price": 59.50,
+      "department": "Womens",
+      "imgURL": "https://www.footasylum.com/images/products/medium/107018.jpg",
+      "stock": 0,
+      "quantity": 0
+    },
+    {
+      "sku": "F2",
+      "title": "Vans Old Skool Trainer",
+      "size": 10,
+      "price": 89.50,
+      "department": "Mens",
+      "imgURL": "https://www.footasylum.com/images/products/large/083280.jpg",
+      "stock": 5,
+      "quantity": 0
+    },
+    {
+      "sku": "F3",
+      "title": "Timberland Junior Waterproof Boot",
+      "size": 6,
+      "price": 109.50,
+      "department": "Kids",
+      "imgURL": "https://www.footasylum.com/images/products/large/083887.jpg",
+      "stock": 4,
+      "quantity": 0
+    },
+    {
+      "sku": "C1",
+      "title": "Kids Blue Hoodie",
+      "size": 5,
+      "price": 14.50,
+      "department": "Kids",
+      "imgURL": "https://image.spreadshirtmedia.com/image-server/v1/products/109954517/views/1,width=500,height=500,appearanceId=370,version=1440748080/kids-sl1pg8r-logo-hoodie-kids-hoodie.png",
+      "stock": 15,
+      "quantity": 0
+    },
+    {
+      "sku": "C3",
+      "title": "Skinny Fit Joggers",
+      "size": "L",
+      "price": 44.50,
+      "department": "Mens",
+      "imgURL": "https://riverisland.scene7.com/is/image/RiverIsland/300509_main",
+      "stock": 6,
+      "quantity": 0
+    },
+    {
+      "sku": "G1",
+      "title": "Blue Shirt",
+      "size": "M",
+      "price": 89.50,
+      "department": "Mens",
+      "imgURL": "https://s-media-cache-ak0.pinimg.com/736x/6b/4d/71/6b4d71ce22c1827d5f19dcd725eea9b2.jpg",
+      "stock": 50,
+      "quantity": 0
+    },
+    {
+      "sku": "B1",
+      "title": "Womens Leather Jacket",
+      "size": "XS",
+      "price": 99.50,
+      "department": "Womens",
+      "imgURL": "https://riverisland.scene7.com/is/image/RiverIsland/683418_main",
+      "stock": 55,
+      "quantity": 0
+    },
+    {
+      "sku": "E1",
+      "title": "Womens White Jumper",
+      "size": 6,
+      "price": 34.50,
+      "department": "Womens",
+      "imgURL": "https://riverisland.scene7.com/is/image/RiverIsland/702891_main",
+      "stock": 27,
+      "quantity": 0
+    },
+    {
+      "sku": "D3",
+      "title": "Womens Skinny Jeans",
+      "size": 8,
+      "price": 29.50,
+      "department": "Womens",
+      "imgURL": "https://riverisland.scene7.com/is/image/RiverIsland/688036_main",
+      "stock": 7,
+      "quantity": 0
+    },
+    {
+      "sku": "A1",
+      "title": "Womens Dressy Scarf",
+      "size": "One Size",
+      "price": 14.50,
+      "department": "Womens",
+      "imgURL": "https://riverisland.scene7.com/is/image/RiverIsland/698411_main",
+      "stock": 14,
+      "quantity": 0
+    },
+    {
+      "sku": "A2",
+      "title": "Boys Silver Sunglasses",
+      "size": "One Size",
+      "price": 24.50,
+      "department": "Kids",
+      "imgURL": "https://riverisland.scene7.com/is/image/RiverIsland/408463_main",
+      "stock": 11,
+      "quantity": 0
+    },
+    {
+      "sku": "A3",
+      "title": "Girls Sunglasses Case",
+      "size": "One Size",
+      "price": 9.50,
+      "department": "Kids",
+      "imgURL": "https://riverisland.scene7.com/is/image/RiverIsland/816794_main",
+      "stock": 8,
+      "quantity": 0
+    }
+  ]
+}
