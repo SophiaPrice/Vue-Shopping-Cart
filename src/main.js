@@ -5,7 +5,7 @@ import vueResource from 'vue-resource' //Allows jSon to be imported and used
 import Vue2Filters from 'vue2-filters' // Allows use of currency
 import VueRouter from 'vue-router'
 import App from './App'
-import Home from './components/home'
+import Home from './components/Home'
 
 Vue.use(vueResource)
 Vue.use(Vue2Filters)

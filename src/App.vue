@@ -5,20 +5,21 @@
 </template>
 
 <script>
-import Home from './components/home'
-import Cart from './components/cart'
+import Home from "./components/Home";
+import Cart from "./components/Cart";
 
 export default {
-  name: 'app',
+  name: "app",
   components: {
-    Home, Cart
+    Home,
+    Cart
   }
-}
+};
 </script>
 
 <style>
 #app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+  font-family: "Avenir", Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
